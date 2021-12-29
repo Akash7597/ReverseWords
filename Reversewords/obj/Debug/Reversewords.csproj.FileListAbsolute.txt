@@ -1,0 +1,8 @@
+C:\Users\AkashVikas\source\repos\Reversewords\Reversewords\bin\Debug\Reversewords.exe.config
+C:\Users\AkashVikas\source\repos\Reversewords\Reversewords\bin\Debug\Reversewords.exe
+C:\Users\AkashVikas\source\repos\Reversewords\Reversewords\bin\Debug\Reversewords.pdb
+C:\Users\AkashVikas\source\repos\Reversewords\Reversewords\obj\Debug\Reversewords.csproj.AssemblyReference.cache
+C:\Users\AkashVikas\source\repos\Reversewords\Reversewords\obj\Debug\Reversewords.csproj.SuggestedBindingRedirects.cache
+C:\Users\AkashVikas\source\repos\Reversewords\Reversewords\obj\Debug\Reversewords.csproj.CoreCompileInputs.cache
+C:\Users\AkashVikas\source\repos\Reversewords\Reversewords\obj\Debug\Reversewords.exe
+C:\Users\AkashVikas\source\repos\Reversewords\Reversewords\obj\Debug\Reversewords.pdb
